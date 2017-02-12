@@ -10,7 +10,7 @@ samples-hololens3d\App.cs: 5EDF25A53FE09A13ECF7120965BC9080
 samples-hololens3d\Package.appxmanifest: 2859C5F87571DF37B2B194AD2BB7FF4A
 samples-hololens3d\project.json: 1D02BC64BAC0D041019673A1C4C51737
 samples-hololens3d\samples-hololens3d.csproj: 1405186C780D13E53C5F6A9FA7053FB7
-samples-hololens3d\samples-hololens3d.csproj.user: BEFB8AC4886C4CFDD3C68445D6F19B04
+samples-hololens3d\samples-hololens3d.csproj.user: modified
 samples-hololens3d\Assets\SplashScreen.scale-200.png: 60618416282ED104FD1473935716045D
 samples-hololens3d\Assets\Square150x150Logo.scale-200.png: E02834B4A5DFB97FF8E212C1CACBB084
 samples-hololens3d\Assets\Square44x44Logo.scale-200.png: 6C6EF27184ABE9D870A9D564953775DE

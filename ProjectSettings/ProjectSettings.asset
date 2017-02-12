@@ -393,7 +393,7 @@ PlayerSettings:
   m_MobileRenderingPath: 1
   metroPackageName: samples-hololens3d
   metroPackageVersion: 
-  metroCertificatePath: D:\Dokumente\Unity\samples-hololens3d\Assets\WSATestCertificate.pfx
+  metroCertificatePath: Assets\WSATestCertificate.pfx
   metroCertificatePassword: 
   metroCertificateSubject: DefaultCompany
   metroCertificateIssuer: DefaultCompany
